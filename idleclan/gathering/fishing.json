@@ -1,0 +1,57 @@
+{
+    "piranha": {
+        "name": "piranha",
+        "level": 1,
+        "time_s": 5.2
+    },
+    "perch": {
+        "name": "perch",
+        "level": 10,
+        "time_s": 7.5
+    },
+    "mackerel": {
+        "name": "mackerel",
+        "level": 15,
+        "time_s": 9
+    },
+    "cod": {
+        "name": "cod",
+        "level": 20,
+        "time_s": 12
+    },
+    "trout": {
+        "name": "trout",
+        "level": 25,
+        "time_s": 9
+    },
+    "salmon": {
+        "name": "salmon",
+        "level": 30,
+        "time_s": 13.5
+    },
+    "carp": {
+        "name": "carp",
+        "level": 40,
+        "time_s": 9.5
+    },
+    "zander": {
+        "name": "zander",
+        "level": 50,
+        "time_s": 15
+    },
+    "pufferfish": {
+        "name": "pufferfish",
+        "level": 60,
+        "time_s": 18.8
+    },
+    "anglerfish": {
+        "name": "anglerfish",
+        "level": 80,
+        "time_s": 30
+    },
+    "tuna": {
+        "name": "tuna",
+        "level": 90,
+        "time_s": 45
+    }
+}

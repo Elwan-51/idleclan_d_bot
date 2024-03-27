@@ -1,0 +1,28 @@
+{
+    "jobs": {
+        "crafting": [
+            "crafting",
+            "smithing",
+            "cooking",
+            "enchanting",
+            "brewing",
+            "carpentry"
+        ],
+        "fighting": [
+            "raids",
+            "combat"
+        ],
+        "gathering": [
+            "plundering",
+            "woodcutting",
+            "mining",
+            "fishing",
+            "foraging",
+            "farming"
+        ],
+        "other": [
+            "agility"
+        ]
+
+    }
+}

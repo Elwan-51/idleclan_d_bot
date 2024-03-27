@@ -1,0 +1,47 @@
+{
+    "nettle": {
+        "name": "nettle",
+        "level": 1,
+        "time_s": 6
+    },
+    "kiwi_fruit": {
+        "name": "kiwi fruit",
+        "level": 10,
+        "time_s": 7
+    },
+    "onion": {
+        "name": "onion",
+        "level": 20,
+        "time_s": 7.5
+    },
+    "magical_flax": {
+        "name": "magical flax",
+        "level": 30,
+        "time_s": 8
+    },
+    "blueberries": {
+        "name": "blueberries",
+        "level": 40,
+        "time_s": 8
+    },
+    "enchanted_flax": {
+        "name": "enchanted flax",
+        "level": 55,
+        "time_s": 8.5
+    },
+    "porcini": {
+        "name": "porcini",
+        "level": 70,
+        "time_s": 9
+    },
+    "cursed_flax": {
+        "name": "cursed flax",
+        "level": 80,
+        "time_s": 10
+    },
+    "seaweed": {
+        "name": "seaweed",
+        "level": 90,
+        "time_s": 12.5
+    }    
+}
