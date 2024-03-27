@@ -1,52 +1,72 @@
 {
     "spruce":{
-        "name": "spruce",
         "level": 1,
-        "time_s": 3
+        "time_s": 3,
+        "loot-table": {
+            "spruce_log": 1
+        }
     },
     "pine":{
-        "name": "pine",
         "level": 10,
-        "time_s": 5
+        "time_s": 5,
+        "loot-table": {
+            "pine_log": 1
+        }
     },
     "oak":{
-        "name": "oak",
         "level": 20,
-        "time_s": 6
+        "time_s": 6,
+        "loot-table": {
+            "oak_log": 1
+        }
     },
     "maple":{
-        "name": "maple",
         "level": 30,
-        "time_s": 6.5
+        "time_s": 6.5,
+        "loot-table": {
+            "maple_log": 1
+        }
     },
     "teak":{
-        "name": "teak",
         "level": 40,
-        "time_s": 8
+        "time_s": 8,
+        "loot-table": {
+            "teak_log": 1
+        }
     },
     "chestnut":{
-        "name": "chestnut",
         "level": 50,
-        "time_s": 10
+        "time_s": 10,
+        "loot-table": {
+            "chestnut_log": 1
+        }
     },
     "mahogany":{
-        "name": "mahogany",
         "level": 60,
-        "time_s": 12.5
+        "time_s": 12.5,
+        "loot-table": {
+            "mahogany_log": 1
+        }
     },
     "yew": {
-        "name": "yew",
         "level": 70,
-        "time_s": 15
+        "time_s": 15,
+        "loot-table": {
+            "yew_log": 1
+        }
     },
     "redwood": {
-        "name": "redwood",
         "level": 80,
-        "time_s": 17.5
+        "time_s": 17.5,
+        "loot-table": {
+            "redwood_log": 1
+        }
     },
     "magical": {
-        "name": "magical",
         "level": 90,
-        "time_s": 20
+        "time_s": 20,
+        "loot-table": {
+            "magical_log": 1
+        }
     }
 }

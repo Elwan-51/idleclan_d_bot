@@ -1,66 +1,75 @@
 {
     "potato": {
-        "name": "potato",
         "level": 1,
         "time_s": 30,
-        "cost": {"potato_seed": 1},
-        "output": 5
+        "loot_table": {
+            "potato": 5,
+            "potato_seed": -1
+        }
 
     },
     "carrot": {
-        "name": "carrot",
         "level": 10,
         "time_s": 40,
-        "cost": {"carrot_seed": 1},
-        "output": 5
+        "loom_table": {
+            "carrot": 5,
+            "carrot_seed": -1
+        }
     },
     "tomato": {
-        "name": "tomato",
         "level": 20,
         "time_s": 60,
-        "cost": {"tomato_seed": 1},
-        "output": 5
+        "loot_table": {
+            "tomato": 5,
+            "tomato_seed": -1
+        }
     },
     "cabbage": {
-        "name": "cabbage",
         "level": 25,
         "time_s": 80,
-        "cost": {"cabbage_seed": 1},
-        "output": 5
+        "loot_table": {
+            "cabbage": 5,
+            "cabbage_seed": -1
+        }
     },
     "strawberry": {
-        "name": "strawberry",
         "level": 35,
         "time_s": 90,
-        "cost": {"strawberry_seed": 1},
-        "output": 5
+        "loot_table": {
+            "strawberry": 5,
+            "strawberry_seed": -1
+        }
     },
     "watermelon": {
-        "name": "watermelon",
         "level": 50,
         "time_s": 120,
-        "cost": {"watermelon_seed": 1},
-        "output": 5
+        "loot_table": {
+            "watermelon": 5,
+            "watermelon_seed": -1
+        }
     },
     "grapes": {
-        "name": "grapes",
         "level": 65,
         "time_s": 150,
-        "cost": {"grapes_seed": 1},
-        "output": 5
+        "loot_table": {
+            "grapes": 5,
+            "grapes_seed": -1
+        }
     },
     "papaya": {
-        "name": "papaya",
         "level": 80,
         "time_s": 165,
-        "cost": {"papaya_seed": 1},
-        "output": 5
+        "loot_table": {
+            "papaya": 5,
+            "papaya_seed": -1
+        }
     },
     "dragon_fruit": {
-        "name": "dragon ruit",
         "level": 90,
         "time_s": 180,
-        "cost": {"dragon_fruit_seed": 1},
-        "output": 5
+        "loot_table": {
+            "dragon_fruit": 5,
+            "dragon_fruit_seed": -1
+        }
     }
 }

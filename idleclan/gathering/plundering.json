@@ -1,6 +1,5 @@
 {
     "small_village": {
-        "name": "small village",
         "level": 1,
         "time_s": 32.5,
         "skill_advantages":["woodcutting", "agility"],

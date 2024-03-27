@@ -1,47 +1,65 @@
 {
     "nettle": {
-        "name": "nettle",
         "level": 1,
-        "time_s": 6
+        "time_s": 6,
+        "loot_table": {
+            "nettle" : 1
+        }
     },
     "kiwi_fruit": {
-        "name": "kiwi fruit",
         "level": 10,
-        "time_s": 7
+        "time_s": 7,
+        "loot_table": {
+            "kiwi_fruit" : 1
+        }
     },
     "onion": {
-        "name": "onion",
         "level": 20,
-        "time_s": 7.5
+        "time_s": 7.5,
+        "loot_table": {
+            "onion" : 1
+        }
     },
     "magical_flax": {
-        "name": "magical flax",
         "level": 30,
-        "time_s": 8
+        "time_s": 8,
+        "loot_table": {
+            "magical_flax" : 1
+        }
     },
     "blueberries": {
-        "name": "blueberries",
         "level": 40,
-        "time_s": 8
+        "time_s": 8,
+        "loot_table": {
+            "blueberries" : 1
+        }
     },
     "enchanted_flax": {
-        "name": "enchanted flax",
         "level": 55,
-        "time_s": 8.5
+        "time_s": 8.5,
+        "loot_table": {
+            "enchanted_flax" : 1
+        }
     },
     "porcini": {
-        "name": "porcini",
         "level": 70,
-        "time_s": 9
+        "time_s": 9,
+        "loot_table": {
+            "porcini" : 1
+        }
     },
     "cursed_flax": {
-        "name": "cursed flax",
         "level": 80,
-        "time_s": 10
+        "time_s": 10,
+        "loot_table": {
+            "cursed_flax" : 1
+        }
     },
     "seaweed": {
-        "name": "seaweed",
         "level": 90,
-        "time_s": 12.5
+        "time_s": 12.5,
+        "loot_table": {
+            "seaweed" : 1
+        }
     }    
 }

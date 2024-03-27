@@ -1,52 +1,72 @@
 {
     "copper_ore": {
-        "name": "copper ore",
         "level": 1,
-        "time_s": 3
+        "time_s": 3,
+        "loot_table": {
+            "copper_ore": 1
+        }
     },
     "tin_ore": {
-        "name": "tin ore",
         "level": 1,
-        "time_s": 3
+        "time_s": 3,
+        "loot_table": {
+            "tin_ore": 1
+        }
     },
     "iron_ore": {
-        "name": "iron ore",
         "level": 15,
-        "time_s": 4.5
+        "time_s": 4.5,
+        "loot_table": {
+            "iron_ore": 1
+        }
     },
     "silver_ore": {
-        "name": "silver ore",
         "level": 25,
-        "time_s": 6
+        "time_s": 6,
+        "loot_table": {
+            "silver_ore": 1
+        }
     },
     "coal_ore": {
-        "name": "coal ore",
         "level": 30,
-        "time_s": 7.5
+        "time_s": 7.5,
+        "loot_table": {
+            "coal_ore": 1
+        }
     },
     "gold_ore": {
-        "name": "gold ore",
         "level": 45,
-        "time_s": 21
+        "time_s": 21,
+        "loot_table": {
+            "gold_ore": 1
+        }
     },
     "platinum_ore": {
-        "name": "platinum ore",
         "level": 55,
-        "time_s": 18
+        "time_s": 18,
+        "loot_table": {
+            "platinum_ore": 1
+        }
     },
     "meteorite_ore": {
-        "name": "meteorite ore",
         "level": 70,
-        "time_s": 26
+        "time_s": 26,
+        "loot_table": {
+            "meteorite_ore": 1
+        }
     },
     "diamond_ore": {
-        "name": "diamond ore",
         "level": 75,
-        "time_s": 29.5
+        "time_s": 29.5,
+        "loot_table": {
+            "diamond_ore": 1
+        }
     },
     "titanium_ore": {
-        "name": "titanium ore",
         "level": 85,
-        "time_s": 35
+        "time_s": 35,
+        "loot_table": {
+            "titanium_ore": 1
+        }
     }
 }

@@ -1,57 +1,79 @@
 {
     "piranha": {
-        "name": "piranha",
         "level": 1,
-        "time_s": 5.2
+        "time_s": 5.2,
+        "loot_table": {
+            "raw_piranha": 1
+        }
     },
     "perch": {
-        "name": "perch",
         "level": 10,
-        "time_s": 7.5
+        "time_s": 7.5,
+        "loot_table": {
+            "raw_perch": 1
+        }
     },
     "mackerel": {
-        "name": "mackerel",
         "level": 15,
-        "time_s": 9
+        "time_s": 9,
+        "loot_table": {
+            "raw_mackerel": 1
+        }
     },
     "cod": {
-        "name": "cod",
         "level": 20,
-        "time_s": 12
+        "time_s": 12,
+        "loot_table": {
+            "raw_cod": 1
+        }
     },
     "trout": {
-        "name": "trout",
         "level": 25,
-        "time_s": 9
+        "time_s": 9,
+        "loot_table": {
+            "raw_trout": 1
+        }
     },
     "salmon": {
-        "name": "salmon",
         "level": 30,
-        "time_s": 13.5
+        "time_s": 13.5,
+        "loot_table": {
+            "raw_salmon": 1
+        }
     },
     "carp": {
-        "name": "carp",
         "level": 40,
-        "time_s": 9.5
+        "time_s": 9.5,
+        "loot_table": {
+            "raw_carp": 1
+        }
     },
     "zander": {
-        "name": "zander",
         "level": 50,
-        "time_s": 15
+        "time_s": 15,
+        "loot_table": {
+            "raw_zander": 1
+        }
     },
     "pufferfish": {
-        "name": "pufferfish",
         "level": 60,
-        "time_s": 18.8
+        "time_s": 18.8,
+        "loot_table": {
+            "raw_pufferfish": 1
+        }
     },
     "anglerfish": {
-        "name": "anglerfish",
         "level": 80,
-        "time_s": 30
+        "time_s": 30,
+        "loot_table": {
+            "raw_anglerfish": 1
+        }
     },
     "tuna": {
-        "name": "tuna",
         "level": 90,
-        "time_s": 45
+        "time_s": 45,
+        "loot_table": {
+            "raw_tuna": 1
+        }
     }
 }
